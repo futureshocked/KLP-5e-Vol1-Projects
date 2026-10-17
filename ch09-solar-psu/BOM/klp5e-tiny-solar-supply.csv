@@ -1,0 +1,13 @@
+Reference,Value,Footprint,Qty,DNP,Exclude from BOM,Exclude from Board,Datasheet
+C1,"4.7 uF, 50 V",Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,1,,,,
+C2,"22 uF, 10 V",Capacitor_THT:C_Radial_D5.0mm_H11.0mm_P2.00mm,1,,,,
+C3,"10 pF, 50 V",Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P2.50mm,1,,,,
+"D1,D2",SS14,footprints:SMA,2,,,,
+"J1,J2,J3",Conn_01x02_Pin,Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical,3,,,,
+L1,"10 uH, 680 mA",footprints:IND_ASPI-0630LR-100M-T15,1,,,,
+Q1,2N7002,Package_TO_SOT_SMD:SOT-23,1,,,,https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF
+"R1,R4",1 M,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,2,,,,
+R2,"604 k, 1%",Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,,,,
+R3,10 k,Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal,1,,,,
+SW1,SW_Wuerth_450301014042,Button_Switch_THT:SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm,1,,,,https://www.we-online.com/components/products/datasheet/450301014042.pdf
+U1,AP3015AKTR-G1,footprints:SOT95P280X145-5N,1,,,,https://www.snapeda.com/parts/AP3015AKTR-G1/Diodes%20Inc./datasheet/
